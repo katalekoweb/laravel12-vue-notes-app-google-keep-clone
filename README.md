@@ -1,4 +1,4 @@
-![Notes App - App de notas](https://raw.githubusercontent.com/katalekoweb/laravel12-vue-inertiajs-saas-gestao-financeira/refs/heads/develop/public/images/finance-project.png)
+![Notes App - App de notas](https://raw.githubusercontent.com/katalekoweb/laravel12-vue-notes-app-google-keep-clone/refs/heads/main/public/images/notes.png)
 
 
 ### English 
@@ -27,8 +27,8 @@ Note: Make sure you have docker installed in your machine.
 
 ### clone the repository
 ```bash
-git clone https://github.com/katalekoweb/laravel12-vue-inertiajs-saas-gestao-financeira.git
-cd laravel12-vue-inertiajs-saas-gestao-financeira
+git clone https://github.com/katalekoweb/laravel12-vue-notes-app-google-keep-clone.git
+cd laravel12-vue-notes-app-google-keep-clone
 ```
 
 ### Copy the env file 
@@ -102,8 +102,8 @@ Note: Para rodar este projeto tenha certeza que você tem o docker instalado em 
 
 ### clone o repositório
 ```bash
-git clone https://github.com/katalekoweb/laravel12-vue-inertiajs-saas-gestao-financeira.git
-cd laravel12-vue-inertiajs-saas-gestao-financeira
+git clone https://github.com/katalekoweb/laravel12-vue-notes-app-google-keep-clone.git
+cd laravel12-vue-notes-app-google-keep-clone
 ```
 
 ### Copie o ficheiro .env
