@@ -124,7 +124,7 @@ const resetForm = () => {
                                     <InputLabel value="Content" />
                                     <textarea id="content" placehoder="Content..." class="mt-1 block w-full"
                                         v-model="form.content"></textarea>
-                                    <InputError class="mt-2" :message="form.errors.title" />
+                                    <InputError class="mt-2" :message="form.errors.content" />
                                 </div>
 
                                 <div class="flex items-center justify-between">
