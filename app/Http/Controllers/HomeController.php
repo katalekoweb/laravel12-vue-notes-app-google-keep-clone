@@ -14,8 +14,8 @@ class HomeController extends Controller
      */
     public function index()
     {
-        $featured_notes = Note::whereUserId(auth()->id())->whereFeatured(1)->orderBy('order')->get();
-        $all_notes = Note::whereUserId(auth()->id())->whereFeatured(0)->orderBy('order')->get();
+        $featured_notes = Note::whereUserId(auth()->id())->whereFeatured(1)->orderBy('updated_at', 'desc')->get();
+        $all_notes = Note::whereUserId(auth()->id())->whereFeatured(0)->orderBy('updated_at', 'desc')->get();
 
         $new_note = new Note();
         $new_note->bg_color = "#ffffff";
