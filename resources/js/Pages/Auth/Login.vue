@@ -96,5 +96,9 @@ const submit = () => {
                 </PrimaryButton>
             </div>
         </form>
+
+        <div class="mt-10 flex items-center justify-center">
+            <Link :href="route('register')"> Not registered? Create your account now </Link>
+        </div>
     </GuestLayout>
 </template>
