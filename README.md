@@ -13,6 +13,7 @@
 ## Laravel Libs
 
 ## Vuejs Libs
+- Pirme Vue for toasts - https://primevue.org/
 
 ## Features
 - Full Auth with Breeze @DONE
@@ -87,6 +88,7 @@ Login: username:admin@admin.com, password: password
 ## Bibliotecas Laravel
 
 ## Bibliotecas Vuejs
+- Pirme Vue for toasts - https://primevue.org/
 
 ## Funcionalidades
 - Autenticação completa com Breeze @DONE
